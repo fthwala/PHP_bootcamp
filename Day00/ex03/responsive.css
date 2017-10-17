@@ -1,0 +1,87 @@
+.top_txt
+{
+text-align: left;
+font-size: 0.8vw;
+}
+.down
+{
+text-align: right;
+font-size: 0.8vw;
+}
+.midle_cont
+{
+font: 1.75vw bold;
+text-align: center;
+}
+.table_layover
+{
+    overflow-x:auto
+}
+td
+{
+height: 0.01%;
+width: 4%;
+}
+body
+{
+background-color: gray;
+}
+#alkalie_metal
+{
+background-color: #FF00FF;
+}
+#alkalie_earth
+{
+background-color: #800080;
+}
+#transition_metal
+{
+background-color: #85C1E9;
+}
+#basic_metal
+{
+background-color: #F5B041;
+}
+#sem_metal
+{
+background-color: #1D8348;
+}
+#nonmetals
+{
+background-color: #21618C;
+}
+#halogen
+{
+background-color: #F4D03F;
+}
+#nobles_gas
+{
+background-color: #F5B041;
+}
+#lunthanides
+{
+background-color: #00FF00;
+}
+#actinides
+{
+background-color: #FF0000;
+}
+#lblue
+{
+background-color: #C0C0C0;
+}
+#lcolorp
+{
+background-color: #D3D3D3;
+}
+IMG
+{
+display:block; 
+margin:auto;
+width:15%;
+height:15%;
+top:5%;  
+left:40% ;
+position:absolute;
+
+}
